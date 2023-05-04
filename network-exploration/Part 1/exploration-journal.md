@@ -1,7 +1,11 @@
-exploration-journal.md
-Ty Valencia
-CMSI3550
+---
+description: Exploration screenshots
+---
 
-The exploration I want to log is my analysis of the LMU Library's network I took on January 28th. 
+# exploration-journal
+
+{% embed url="https://github.com/lmucs-3550/portfolio-TyValencia/tree/main/network-exploration/Part%201/Exploration%20screenshots" %}
+
+The exploration I want to log is my analysis of the LMU Library's network I took on January 28th.
 
 (Paste from Google Docs)
