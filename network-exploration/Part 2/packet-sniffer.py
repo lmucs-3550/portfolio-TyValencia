@@ -41,7 +41,7 @@ def parseReferer(pkts):
 
 
 if __name__ == "__main__":
-    pcap = sniff(count=100)  # Add this line to capture 100 packets, or adjust the count as needed
+    pcap = sniff(count=100)
     parsePCAP(pcap)
     local_ip = get_local_ip()
     subnet_mask = "255.255.255.0" 
