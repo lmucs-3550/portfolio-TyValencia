@@ -1,13 +1,13 @@
 # Table of contents
 
 * [finalthoughts](README.md)
-* [client-server-application](client-server-application/README.md)
-  * [catan-server.py](client-server-application/description.md)
+* [final-project](final-project/README.md)
+  * [Exploring ChatGPT4's Network Capabilities through its API](final-project/final-project.md)
 * [how-to-fix-your-internet](how-to-fix-your-internet/README.md)
   * [Why Chrome takes up so much CPU -  abstract](how-to-fix-your-internet/why-chrome-takes-up-so-much-cpu-abstract.md)
   * [Why Chrome takes up so much CPU - presentation slides](how-to-fix-your-internet/why-chrome-takes-up-so-much-cpu-presentation-slides.md)
-* [final-project](final-project/README.md)
-  * [Exploring ChatGPT4's Network Capabilities through its API](final-project/final-project.md)
+* [client-server-application](client-server-application/README.md)
+  * [catan-server.py](client-server-application/description.md)
 * [network-exploration](network-exploration/README.md)
   * [Part 1](network-exploration/part-1/README.md)
     * [exploration-journal](<network-exploration/Part 1/exploration-journal.md>)
