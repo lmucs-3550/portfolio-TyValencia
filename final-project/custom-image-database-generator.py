@@ -1,6 +1,13 @@
 # Ty Valencia
 # CMSI3550
 
+# This is a prototype of a custom image generation program I would like to implement in the future.
+
+# This code takes in a data set, a folder on your computer, which contains the images you 
+# want it to use for reference. The program analyzes each photo, associates keywords with it,
+# and stores it in a dictionary. When the user enters a prompt, the program searches through 
+# the dictionary and selects images with similar keywords, then uses them to generate a new image. 
+
 import os
 import openai
 import random
